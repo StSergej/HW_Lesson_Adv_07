@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog_town>
+    <town>
+        <city size="big">Kiev</city>
+        <definition_city>Capital</definition_city>
+        <street>
+            <street_name>Khreshchatyk</street_name>
+            <definition>Kiev's main street</definition>
+            <building>
+                <building_number>38</building_number>
+                <institution_name>Central Department Store</institution_name>
+            </building>
+        </street>
+    </town>
+</catalog_town>
